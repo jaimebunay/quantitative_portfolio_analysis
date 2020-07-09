@@ -19,7 +19,7 @@ Use Pandas to read each CSV file as a DataFrame. Then clean the data by converti
 Here we can see that Algo 1 and Berkshire Hathaway Inc have a higher cumulative return than the S&P 500. 
 
 ## Risk 
-![Portfolio Risk](Screenshots/portfolio_risk.png)
+![Portfolio Risk](screenshots/portfolio_risk.png)
 
 The box plot above shows that Berkshire Hathaway Inc has the biggest spread. Algo 1 has the smallest spread, but it also has some outliers. 
 
