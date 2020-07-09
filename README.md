@@ -11,8 +11,7 @@ This repository contains a file with the [code](./portfolio_analysis.ipynb) I us
 ## Read and Clean Data 
 Use Pandas to read each CSV file as a DataFrame. Then clean the data by converting dates to `DateTimeIndex`, detect and remove all null values, and convert data types as needed. Finally concatenate all DataFrames into a single DataFrame to proceed with quantitative analysis and see if any of the portfolios outperform the S&P 500
 
-![Combined Returns](screenshots/combined_returns.png
-)
+![Combined Returns](screenshots/combined_returns.png)
 
 ## Performance Analysis
 ![Cumulative Returns](screenshots/cumulative_returns.png)
